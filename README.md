@@ -26,7 +26,6 @@ src/
 
 ```bash
 npm install
-cp .env.example .env.local   # API_URL
+cp .env.example   # API_URL
 npm run dev
 ```
-# dev_assessment_frontend
